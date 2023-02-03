@@ -6,5 +6,11 @@
 
 ![gif 2speed (2)](https://user-images.githubusercontent.com/99319638/214705569-47ae6e06-99c4-4d27-9868-5945e03a5571.gif)
 
+### normal.ver
 ![image](https://user-images.githubusercontent.com/99319638/214515157-8cf8779a-183e-4bc7-9715-8fe5710157b2.png)
+
+### white.ver
+![image](https://user-images.githubusercontent.com/99319638/216499782-e572d2ee-4853-4cfa-9fc6-ba43aeda9539.png)
+
+
 
